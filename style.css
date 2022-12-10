@@ -1,0 +1,28 @@
+.navbar{
+    font-size: 12px ;
+}
+p{
+    font-size: 13px;
+}
+.iphone13{
+    font-size: 56px;
+    line-height: 1.07143;
+    font-weight: 600;
+    letter-spacing: -.005em;
+}
+.ohsopro{
+    font-size: 30px;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif; 
+}
+/* .winner{
+    margin-top: 50vh;
+} */
+li{
+    font-size: .80rem
+}
+hr.hrstyle{
+	border-top: 1px solid #8c8b8b;
+}
+.footer-background{
+    background-color: #dfdfe47e;
+}
